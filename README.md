@@ -54,7 +54,7 @@ duckduckgo-search
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/adityach007/Stealth_Assignment/tree/main
 cd voice-question-analyzer
 ```
 
