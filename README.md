@@ -13,6 +13,21 @@ https://drive.google.com/file/d/1Prz6fATFqlFf-NENeSdahGgUiPKVnMi4/view?usp=shari
 - **Beautiful UI**: Streamlit-based interface with custom styling
 - **Fallback Mechanisms**: Local processing capabilities when cloud services are unavailable
 
+
+## Results:
+
+![Screenshot 2024-12-25 220420](https://github.com/user-attachments/assets/31cd8aca-9bce-4874-a3c4-a940bdbdcb1d)
+
+![Screenshot 2024-12-25 220429](https://github.com/user-attachments/assets/166ba7ca-2cd5-483e-a012-14f0dd8f932f)
+
+![Screenshot 2024-12-25 220439](https://github.com/user-attachments/assets/f1d31656-ef06-4dc2-9605-86ce6750b48a)
+
+![Screenshot 2024-12-25 220446](https://github.com/user-attachments/assets/6cecf28e-c49e-45de-8b80-4b9c364e7ede)
+
+![Screenshot 2024-12-25 220452](https://github.com/user-attachments/assets/f4d2f636-a3a5-45d1-b847-de4df098f514)
+
+
+
 ## 🛠️ Technical Architecture
 
 ### Components
