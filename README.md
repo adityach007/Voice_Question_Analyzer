@@ -16,6 +16,8 @@ https://drive.google.com/file/d/1Prz6fATFqlFf-NENeSdahGgUiPKVnMi4/view?usp=shari
 
 ## Results:
 
+### Question extraction:
+
 ![Screenshot 2024-12-25 220420](https://github.com/user-attachments/assets/31cd8aca-9bce-4874-a3c4-a940bdbdcb1d)
 
 ![Screenshot 2024-12-25 220429](https://github.com/user-attachments/assets/166ba7ca-2cd5-483e-a012-14f0dd8f932f)
@@ -26,6 +28,20 @@ https://drive.google.com/file/d/1Prz6fATFqlFf-NENeSdahGgUiPKVnMi4/view?usp=shari
 
 ![Screenshot 2024-12-25 220452](https://github.com/user-attachments/assets/f4d2f636-a3a5-45d1-b847-de4df098f514)
 
+
+### Agent Working:
+
+![Screenshot 2024-12-25 221027](https://github.com/user-attachments/assets/de6b9e38-8d67-431d-8052-e9b17caa679d)
+
+![Screenshot 2024-12-25 221038](https://github.com/user-attachments/assets/096e8ca0-037a-4de6-972c-2e8a779c3d04)
+
+![Screenshot 2024-12-25 221055](https://github.com/user-attachments/assets/de54a68b-c8e7-4b3e-a16f-cd2e4e91aa7a)
+
+![Screenshot 2024-12-25 221107](https://github.com/user-attachments/assets/91655733-3976-45c5-9704-73abe85529d1)
+
+![Screenshot 2024-12-25 221117](https://github.com/user-attachments/assets/1f8b5131-e882-4171-afff-fda215e1bdf8)
+
+![Screenshot 2024-12-25 221133](https://github.com/user-attachments/assets/fb3ecc1e-75a6-43af-bd79-c850e18d4cc8)
 
 
 ## 🛠️ Technical Architecture
