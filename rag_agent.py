@@ -142,7 +142,7 @@ class StrategyCoordinator:
 class RAGAgent:
     def __init__(self):
         self.llm = ChatGroq(
-            api_key="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",
+            api_key="YOUR_GROQ_API_KEY",
             model_name="mixtral-8x7b-32768",
             temperature=0.7
         )
@@ -175,7 +175,7 @@ class RAGAgent:
             self.agent = initialize_agent(
                 tools=self.tools,
                 llm=self.llm,
-                agent=AgentType.STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION,  # Changed agent type
+                agent=AgentType.STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION, 
                 verbose=True,
                 max_iterations=3,
                 early_stopping_method="generate",
