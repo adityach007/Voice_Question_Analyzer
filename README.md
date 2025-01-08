@@ -2,7 +2,6 @@
 
 A sophisticated voice-driven application that transcribes speech, extracts questions, and provides intelligent answers using RAG (Retrieval Augmented Generation) and LLM technologies.
 
-https://drive.google.com/file/d/1Prz6fATFqlFf-NENeSdahGgUiPKVnMi4/view?usp=sharing
 
 ## 🌟 Features
 
