@@ -35,7 +35,7 @@ def transcribe_audio(audio_input):
         audio_bytes = audio_input['bytes'] if isinstance(audio_input, dict) else audio_input
         
         # Initialize Groq client with API key
-        client = Groq(api_key="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")
+        client = Groq(api_key="your_api_key")
         
         # Create and write to temporary file
         temp_filename = get_unique_temp_path()
